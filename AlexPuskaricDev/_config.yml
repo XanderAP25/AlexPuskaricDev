@@ -22,8 +22,8 @@ title: Alex Puskaric — Developer Portfolio
 email: puskaraxander@gmail.com
 description: >-
   Portfolio of Alex Puskaric — showcasing software projects, resume, and contact information.
-baseurl: "" # leave blank if deploying to root domain
-url: "https://XanderAP25.github.io" # replace with your real domain (or GitHub Pages URL)
+baseurl: "/AlexPuskaricDev" # leave blank if deploying to root domain
+url: "https://xanderap25.github.io/AlexPuskaricDev/" # replace with your real domain (or GitHub Pages URL)
 github_username: XanderAP25
 
 # Build settings
@@ -40,8 +40,8 @@ navigation_header:
   - title: "Projects"
     url: "/projects/"
   - title: "Resume"
-    url: "/assets/Resume%20as%20of%205_7_2025.pdf"  # This is the direct link to the resume PDF
-    html_options: { target: "_blank" }  # This will make the link open in a new tab
+    url: "/assets/Resume%20as%20of%205_7_2025.pdf"
+    html_options: { target: "_blank" }  
   - title: "About"
     url: "/about/"
 
