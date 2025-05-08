@@ -38,12 +38,12 @@ navigation_header:
   - title: "Home"
     url: "/"
   - title: "Projects"
-    url: "/projects"
+    url: "/projects/"
   - title: "Resume"
     url: "/assets/Resume%20as%20of%205_7_2025.pdf"
     html_options: { target: "_blank" }  
   - title: "About"
-    url: "/about"
+    url: "/about/"
 
 
 

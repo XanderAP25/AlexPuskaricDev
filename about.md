@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about
+permalink: /about/
 ---
 
 My interest in data began at a young age with Pokémon. The stats, moves, and abilities added depth to the vibrant world I was exploring, sparking my curiosity about how data shapes systems. This fascination has followed me into adulthood, influencing my studies and personal projects focused on data analysis, visualization, and modeling.

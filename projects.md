@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects
+permalink: /projects/
 ---
 
 ### [Demystifying AI: A Guide to LLMs](https://xanderap25.github.io/Study-Site/)  
