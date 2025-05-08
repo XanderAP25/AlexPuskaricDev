@@ -4,12 +4,9 @@
     {% for item in site.navigation_header %}
 
       {% assign url = item.url %}
-      {% if url contains '://' %}
-        <!-- Absolute URL, no need to process further -->
-      {% else %}
-        <!-- Use relative_url for relative paths -->
-        {% assign url = item.url | relative_url %}
-      {% endif %}
+      {% unless url contains '://' %}
+        {% assign url = url | relative_url %}
+      {% endunless %}
 
       <li class="item item--nav{% if item.url == page.url %} item--current{% endif %}">
         <a href="{{ url }}">{{ item.title }}</a>
@@ -23,6 +20,7 @@
 {% else %}
   {% include nav-default.html %}
 {% endif %}
+
 
 <script type="text/javascript">
   // Get list and button
