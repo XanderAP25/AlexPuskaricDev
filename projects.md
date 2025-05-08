@@ -17,5 +17,4 @@ A simulation of a closed-loop aquarium system. The model simulates plant growth,
 ### D3 Track Analysis  
 A statistical analysis of 2023 NCAA Division III men's track performances. I examined a year’s worth of times to assess skill levels across D3 regions. I also fit linear regression models to explore relationships between 100m–200m and 200m–400m times.
 
-<embed src="/assets/D3-Track-Report.pdf" width="100%" height="600px" type="application/pdf">
-
+<embed src="{{ site.baseurl }}/assets/D3-Track-Report.pdf" width="100%" height="600px" type="application/pdf">
