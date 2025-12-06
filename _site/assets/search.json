@@ -9,24 +9,31 @@
         "title": "Welcome to Jekyll!",
         "excerpt": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n",
         "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nJekyll requires blog post files to be named according to the following format:\n\nYEAR-MONTH-DAY-title.MARKUP\n\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
-        "url": "/jekyll/update/2025/05/07/welcome-to-jekyll.html"
+        "url": "/AlexPuskaricDev/jekyll/update/2025/05/07/welcome-to-jekyll.html"
       },
     
   
   
   
   {
+    "title": "Resume",
+    "excerpt": "\n",
+    "content": "\n\n\n\n\n\nIf the embedded preview does not load in your browser, you can use the download link below.\nDownload Resume (PDF)\n",
+    "url": "/AlexPuskaricDev/Resume"
+  },
+  
+  {
     "title": "About Me",
     "excerpt": "\n",
-    "content": "My interest in data began at a young age with Pokémon. The stats, moves, and abilities added depth to the vibrant world I was exploring, sparking my curiosity about how data shapes systems. This fascination has followed me into adulthood, influencing my studies and personal projects focused on data analysis, visualization, and modeling.\n\nAfter completing my independent study on AI, I developed a deeper respect for the field and now aim to take my skills further in that direction. Whether professionally or for personal research and enjoyment, AI is an area I’m excited to continue exploring.\n\nOutside of data, I enjoy gaming, reading, watching anime, and running track. While my college athletics career may be over, I’m still passionate about running and maintaining an active lifestyle.\n\nIf you’re interested in discussing projects or connecting, feel free to reach out.\n",
-    "url": "/about"
+    "content": "I’m a data analyst and software professional interested in how complex systems behave, how data reveals hidden patterns, and how AI models adapt to different tasks. I enjoy work that requires investigation, structured thinking, and breaking down messy problems into something understandable and actionable.\n\nMy independent study on modern AI reinforced that interest. I explored language model architectures, fine-tuning methods, and narrative behavior, and the project gave me a deeper appreciation for how these systems learn and generalize. It’s an area I plan to continue developing in both personal research and professional work.\n\nOutside of data and AI, I spend my time gaming, reading, watching anime, and running. Track was a big part of my life in college, and while competition is behind me, staying active is still something I prioritize.\n\nIf you’d like to connect or discuss a project, you can reach me at\npuskaraxander@gmail.com.\n\n\n\nContact Information\n\nEmail: puskaraxander@gmail.com\nGitHub: github.com/xanderap25\nLinkedIn: linkedin.com/in/alex-puskaric-1323a7211\n",
+    "url": "/AlexPuskaricDev/about/"
   },
   
   {
     "title": "Projects",
     "excerpt": "\n",
-    "content": "Demystifying AI: A Guide to LLMs\nAn independent study on modern AI models, completed in my senior year. I researched LLM architecture, in-context learning, fine-tuning methods, and AI ethics. The project culminated in fine-tuning a language model on Grimm’s Fairy Tales and comparing its outputs against baseline models using zero-shot reasoning and text analysis.\n\n\n\nAquaculture Simulation\nA simulation of a closed-loop aquarium system. The model simulates plant growth, fish growth, and chemical cycling with the goal of achieving a self-sustaining ecosystem.\n\n\n\nD3 Track Analysis\nA statistical analysis of 2023 NCAA Division III men’s track performances. I examined a year’s worth of times to assess skill levels across D3 regions. I also fit linear regression models to explore relationships between 100m–200m and 200m–400m times.\n\n\n\n",
-    "url": "/Projects"
+    "content": "Demystifying AI: A Guide to LLMs\nA research-driven independent study completed during my senior year. I explored modern language model architecture, in-context learning, fine-tuning techniques, and AI ethics.\n\nThe project culminated in fine-tuning a model on Grimm’s Fairy Tales and comparing its outputs to baseline models using structured text analysis and zero-shot prompting.\n\n\n\nAquaculture Simulation\nA simulation of a closed-loop aquarium ecosystem.\nThe model represents fish growth, plant development, and nitrogen cycling, allowing exploration of conditions required for a balanced, self-sustaining environment.\n\n\n\nD3 Track Analysis\nA statistical examination of NCAA Division III men’s track performances from the 2023 season.\nThe analysis includes regression modeling to study relationships between event times (100m–200m and 200m–400m) and evaluates variance across regional competitive tiers.\n\n\n\n",
+    "url": "/AlexPuskaricDev/projects/"
   }
   
 ]

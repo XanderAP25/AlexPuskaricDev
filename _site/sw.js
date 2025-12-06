@@ -1,8 +1,8 @@
-const version = '20250508010958';
+const version = '20251206130044';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/jekyll/update/2025/05/07/welcome-to-jekyll.html","/Resume","/about","/","/manifest.json","/Projects","/assets/search.json","/assets/styles.css","/feed.xml","/assets/styles.css.map","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/AlexPuskaricDev/jekyll/update/2025/05/07/welcome-to-jekyll.html","/AlexPuskaricDev/Resume","/AlexPuskaricDev/about/","/AlexPuskaricDev/","/AlexPuskaricDev/manifest.json","/AlexPuskaricDev/projects/","/AlexPuskaricDev/assets/search.json","/AlexPuskaricDev/assets/styles.css","/AlexPuskaricDev/feed.xml","/AlexPuskaricDev/assets/styles.css.map","", "/AlexPuskaricDev/assets/default-offline-image.png", "/AlexPuskaricDev/assets/scripts/fetch.js"
   ]
 }
 
@@ -60,7 +60,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "/assets/default-offline-image.png";
+    offlineAsset = "/AlexPuskaricDev/assets/default-offline-image.png";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page

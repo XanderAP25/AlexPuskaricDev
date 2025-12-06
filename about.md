@@ -4,10 +4,19 @@ title: About Me
 permalink: /about/
 ---
 
-My interest in data began at a young age with Pokémon. The stats, moves, and abilities added depth to the vibrant world I was exploring, sparking my curiosity about how data shapes systems. This fascination has followed me into adulthood, influencing my studies and personal projects focused on data analysis, visualization, and modeling.
+I’m a data analyst and software professional interested in how complex systems behave, how data reveals hidden patterns, and how AI models adapt to different tasks. I enjoy work that requires investigation, structured thinking, and breaking down messy problems into something understandable and actionable.
 
-After completing my independent study on AI, I developed a deeper respect for the field and now aim to take my skills further in that direction. Whether professionally or for personal research and enjoyment, AI is an area I’m excited to continue exploring.
+My independent study on modern AI reinforced that interest. I explored language model architectures, fine-tuning methods, and narrative behavior, and the project gave me a deeper appreciation for how these systems learn and generalize. It’s an area I plan to continue developing in both personal research and professional work.
 
-Outside of data, I enjoy gaming, reading, watching anime, and running track. While my college athletics career may be over, I’m still passionate about running and maintaining an active lifestyle.
+Outside of data and AI, I spend my time gaming, reading, watching anime, and running. Track was a big part of my life in college, and while competition is behind me, staying active is still something I prioritize.
 
-If you’re interested in discussing projects or connecting, feel free to <a href="mailto:puskaraxander@gmail.com" target="_blank">reach out</a>.
+If you’d like to connect or discuss a project, you can reach me at  
+**<a href="mailto:puskaraxander@gmail.com">puskaraxander@gmail.com</a>**.
+
+---
+
+### Contact Information
+
+**Email:** <a href="mailto:puskaraxander@gmail.com">puskaraxander@gmail.com</a>  
+**GitHub:** <a href="https://github.com/xanderap25">github.com/xanderap25</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/alex-puskaric-1323a7211/">linkedin.com/in/alex-puskaric-1323a7211</a>

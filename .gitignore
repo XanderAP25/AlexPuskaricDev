@@ -1,0 +1,20 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Local environment
+.DS_Store
+Thumbs.db
+
+# Ruby dependencies (if using local Jekyll builds)
+vendor/
+.bundle/
+Gemfile.lock
+
+# Editors / IDEs
+*.swp
+*.swo
+*.idea/
+*.vscode/
