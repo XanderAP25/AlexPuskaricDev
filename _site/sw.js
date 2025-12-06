@@ -1,8 +1,8 @@
-const version = '20251206130629';
+const version = '20251206130924';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/AlexPuskaricDev/jekyll/update/2025/05/07/welcome-to-jekyll.html","/AlexPuskaricDev/Resume","/AlexPuskaricDev/about/","/AlexPuskaricDev/","/AlexPuskaricDev/manifest.json","/AlexPuskaricDev/projects/","/AlexPuskaricDev/assets/search.json","/AlexPuskaricDev/assets/styles.css","/AlexPuskaricDev/feed.xml","/AlexPuskaricDev/assets/styles.css.map","", "/AlexPuskaricDev/assets/default-offline-image.png", "/AlexPuskaricDev/assets/scripts/fetch.js"
+  return ["/AlexPuskaricDev/jekyll/update/2025/05/07/welcome-to-jekyll.html","/AlexPuskaricDev/resume","/AlexPuskaricDev/about/","/AlexPuskaricDev/","/AlexPuskaricDev/manifest.json","/AlexPuskaricDev/projects/","/AlexPuskaricDev/assets/search.json","/AlexPuskaricDev/assets/styles.css","/AlexPuskaricDev/feed.xml","/AlexPuskaricDev/assets/styles.css.map","", "/AlexPuskaricDev/assets/default-offline-image.png", "/AlexPuskaricDev/assets/scripts/fetch.js"
   ]
 }
 
