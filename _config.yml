@@ -41,7 +41,6 @@ navigation_header:
     url: "/projects/"
   - title: "Resume"
     url: "/resume/"
-    html_options: { target: "_blank" }  
   - title: "About"
     url: "/about/"
 
