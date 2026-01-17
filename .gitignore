@@ -1,20 +1,21 @@
-# Jekyll build artifacts
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# build output
+dist/
+# generated types
+.astro/
 
-# Local environment
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
 .DS_Store
-Thumbs.db
-
-# Ruby dependencies (if using local Jekyll builds)
-vendor/
-.bundle/
-Gemfile.lock
-
-# Editors / IDEs
-*.swp
-*.swo
-*.idea/
-*.vscode/
