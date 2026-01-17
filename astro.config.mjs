@@ -7,6 +7,8 @@ import starlightUtils from '@lorenzo_lewis/starlight-utils';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://xanderap25.github.io',
+	base: '/AlexPuskaricDev',
 	integrations: [
 		starlight({
 			title: '',
